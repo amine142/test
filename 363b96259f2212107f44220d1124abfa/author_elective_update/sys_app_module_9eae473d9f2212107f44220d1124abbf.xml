@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="my-app">1f4c5ae59f2212107f44220d1124ab6a</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>My table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 08:48:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9eae473d9f2212107f44220d1124abbf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="my-app" source="x_snc_my_app">363b96259f2212107f44220d1124abfa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my-app">363b96259f2212107f44220d1124abfa</sys_scope>
+        <sys_update_name>sys_app_module_9eae473d9f2212107f44220d1124abbf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 08:48:05</sys_updated_on>
+        <timeline_page/>
+        <title>My table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="my-app">363b96259f2212107f44220d1124abfa</application>
+        <file_path/>
+        <instance_id>b33cc75dc32e5e9cd0265873e40131ba</instance_id>
+        <instance_name>nowlearning-nlinst02313781-0001</instance_name>
+        <name>sys_app_module_9eae473d9f2212107f44220d1124abbf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="my-app">1f4c5ae59f2212107f44220d1124ab6a</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>My table</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-19 08:48:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9eae473d9f2212107f44220d1124abbf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My table</sys_name><sys_overrides/><sys_package display_value="my-app" source="x_snc_my_app">363b96259f2212107f44220d1124abfa</sys_package><sys_policy/><sys_scope display_value="my-app">363b96259f2212107f44220d1124abfa</sys_scope><sys_update_name>sys_app_module_9eae473d9f2212107f44220d1124abbf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-19 08:48:05</sys_updated_on><timeline_page/><title>My table</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>630755788</payload_hash>
+        <record_name>My table</record_name>
+        <reverted_from/>
+        <source>cf77a3a99f6612107f44220d1124ab91</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 08:53:04</sys_created_on>
+        <sys_id>dfcfcb319f6212107f44220d1124ab95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193de1edb390000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 08:53:04</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1aae473dd5221210532181dcc1aa23c2</update_guid>
+        <update_guid_history>1aae473dd5221210532181dcc1aa23c2:630755788,23bf8731ee6212108daac68e8339c4df:1041562584,1aae473dd5221210532181dcc1aa23c2:630755788,0f8fcffdef221210e72d8858e017113e:1041562584,1aae473dd5221210532181dcc1aa23c2:630755788</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="My table">0d719c1a9f2212107f44220d1124ab7f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 08:18:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>64f3b8322d0f49c0bbe4883e3ee6f900</sys_id>
+        <sys_metadata>9eae473d9f2212107f44220d1124abbf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My table</sys_name>
+        <sys_package display_value="my-app" source="x_snc_my_app">363b96259f2212107f44220d1124abfa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="my-app">363b96259f2212107f44220d1124abfa</sys_scope>
+        <sys_scope_delete display_value="">2dc20605fe4541d8b39735cf063ca440</sys_scope_delete>
+        <sys_update_name>sys_app_module_9eae473d9f2212107f44220d1124abbf</sys_update_name>
+        <sys_update_version display_value="sys_app_module_9eae473d9f2212107f44220d1124abbf">dfcfcb319f6212107f44220d1124ab95</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 08:18:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
