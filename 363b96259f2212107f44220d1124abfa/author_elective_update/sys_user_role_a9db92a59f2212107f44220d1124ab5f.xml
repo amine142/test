@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_my_app.my-app-role</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_snc_my_app.my-app-role</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-18 10:27:33</sys_created_on>
+        <sys_id>a9db92a59f2212107f44220d1124ab5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_my_app.my-app-role</sys_name>
+        <sys_package display_value="my-app" source="x_snc_my_app">363b96259f2212107f44220d1124abfa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="my-app">363b96259f2212107f44220d1124abfa</sys_scope>
+        <sys_update_name>sys_user_role_a9db92a59f2212107f44220d1124ab5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-18 10:27:33</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="my-app">363b96259f2212107f44220d1124abfa</application>
+        <file_path/>
+        <instance_id>b33cc75dc32e5e9cd0265873e40131ba</instance_id>
+        <instance_name>nowlearning-nlinst02313781-0001</instance_name>
+        <name>sys_user_role_a9db92a59f2212107f44220d1124ab5f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_snc_my_app.my-app-role</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>x_snc_my_app.my-app-role</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-18 10:27:33</sys_created_on><sys_id>a9db92a59f2212107f44220d1124ab5f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_my_app.my-app-role</sys_name><sys_package display_value="my-app" source="x_snc_my_app">363b96259f2212107f44220d1124abfa</sys_package><sys_policy/><sys_scope display_value="my-app">363b96259f2212107f44220d1124abfa</sys_scope><sys_update_name>sys_user_role_a9db92a59f2212107f44220d1124ab5f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-18 10:27:33</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-1515883076</payload_hash>
+        <record_name>x_snc_my_app.my-app-role</record_name>
+        <reverted_from/>
+        <source>52cf4b319f6212107f44220d1124abbc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-19 08:53:03</sys_created_on>
+        <sys_id>8bcfcb319f6212107f44220d1124ab1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193de1ed67a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-19 08:53:03</sys_updated_on>
+        <type>Role</type>
+        <update_guid>4bcfcb31eb621210ef59e47f1306491a</update_guid>
+        <update_guid_history>50cf0b315962121090645c0f8486210d:0,0c9f0331a26212101e3eca219e13f866:0,35db52e566221210d364ca177f92c497:-1515883076</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_my_app.my-app-role">2d9fd09e9f6212107f44220d1124abc6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-20 09:20:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>32a82e06b784496686122f7086b81244</sys_id>
+        <sys_metadata>a9db92a59f2212107f44220d1124ab5f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_my_app.my-app-role</sys_name>
+        <sys_package display_value="my-app" source="x_snc_my_app">363b96259f2212107f44220d1124abfa</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="my-app">363b96259f2212107f44220d1124abfa</sys_scope>
+        <sys_scope_delete display_value="">2dc20605fe4541d8b39735cf063ca440</sys_scope_delete>
+        <sys_update_name>sys_user_role_a9db92a59f2212107f44220d1124ab5f</sys_update_name>
+        <sys_update_version display_value="sys_user_role_a9db92a59f2212107f44220d1124ab5f">8bcfcb319f6212107f44220d1124ab1a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-20 09:20:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
